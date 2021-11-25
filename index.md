@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html;charset=UTF-16">
-    <link rel="stylesheet" href="/website/style.css">
+    <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <div id="base">
@@ -15,7 +15,7 @@
             そのN2試験の証明書で、日本に合法に仕事を就くことができます。
             </p>
             <div id="div_obraz">
-                <img src="/website/kd.jpg" alt="opis" id="obrazek">
+                <img src="kd.jpg" alt="opis" id="obrazek">
             </div>
             <p>
             上の写真に、私のけん玉が見えています。それは、江戸の日本から来たおもちゃですけど、現在にまだ本当に面白いです。
