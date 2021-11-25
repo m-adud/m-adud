@@ -1,5 +1,5 @@
 #base {
-    width: 80%;
+    width: 90%;
     background-color: aquamarine;
 }
 
@@ -17,8 +17,8 @@ h1 {
 p {
     font-family:'Arial';
     font-size: 20pt;
-    margin-left: 36px;
-    margin-right: 36px;
+    margin-left: 32px;
+    margin-right: 32px;
 }
 
 #obrazek {
