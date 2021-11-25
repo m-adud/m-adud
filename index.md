@@ -21,7 +21,9 @@
             <br>
             それはさておき、上記に日本の八十年代の音楽について書きました。そういえば、
             <a href="https://www.youtube.com/watch?v=Vxis_H3yNOc&ab_channel=OMEGATRIBE-Topic">こちらへ</a>
-            私の一番大好きな歌です。楽しんでください！( ^)o(^ )
+            私の一番大好きな歌です。
+            <br>
+            楽しんでください！( ^)o(^ )
             </p>
         </div>
     </body>
