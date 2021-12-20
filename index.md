@@ -7,7 +7,7 @@
         <div id="base">
 
             <h1>自分たちのプロジェクト</h1>
-            <p>「<i>Narzędzia Informatyczne</i>」の科目のために、「海戦ゲーム」に基づくゲームをチームとして作りました。
+            <p>「<i>Narzędzia Informatyczne</i>」の大学科目のために、「海戦ゲーム」に基づくゲームをチームとして作りました。
             自分たちはこの学期にプログラミング科目にＣ言語を勉強しているから、そのゲームはその言語で書かれています。
             プロジェクトは終らせませんでしたが、チームワーク技術を高める機会がたくさんあって全て利用しました。
 
@@ -22,7 +22,7 @@
             ⋆ <a href="https://dominikbreksa.github.io/">Dominik Breksa</a><br>
             ⋆ <a href="https://dulmicha.github.io/">Michał Dul</a><br>
             ⋆ <a href="https://caiiguia.github.io/">Szymon Jurecki</a><br>
-            ⋆ Szymon Zabawa - Częściowe uczestnictwo w projekcie - Brak strony
+            ⋆ Szymon Zabawa - ウェブサイトなし
             </p>
             <hr>
 
