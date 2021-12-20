@@ -5,6 +5,25 @@
     </head>
     <body>
         <div id="base">
+
+            <h1>自分たちのプロジェクト</h1>
+            <p>"<i>Narzędzia Informatyczne</i>"の科目のために、「海戦ゲーム」に基づくゲームをチームとして作りました。自分たちはこの学期にプログラミング科目にＣ言語を勉強しているから、そのゲームはその言語で書かれています。プロジェクトは終らせませんでしたが、チームワーク技術を高める機会がたくさんあって全て利用しました。
+
+            <div id="div_obraz">
+                <img src="menu.jpg" alt="opis" id="obrazek">
+            </div> 
+            <p>上の写真に、自分たちのチームで作った「海戦ゲーム」のメニュー</p>
+
+            </p>
+            <h1>自分たちのチーム</h1>
+            <p>⋆ <a href="https://asgardianvoyager.github.io/">Arkadiusz Paterak</a><br>
+            ⋆ <a href="https://dominikbreksa.github.io/">Dominik Breksa</a><br>
+            ⋆ <a href="https://dulmicha.github.io/">Michał Dul</a><br>
+            ⋆ <a href="https://caiiguia.github.io/">Szymon Jurecki</a><br>
+            ⋆ Szymon Zabawa - Częściowe uczestnictwo w projekcie - Brak strony
+            </p>
+            <hr>
+
             <h1>自分のウェブサイト</h1>
             <p>それは自分につくウェブサイト。私は十九歳ですけど、とても幼く感じています。
             <br>
